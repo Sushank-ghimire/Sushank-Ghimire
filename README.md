@@ -17,10 +17,10 @@
 
 <br />
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mcoder006&show_icons=true&locale=en&layout=compact" alt="mcoder006" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mcoder006&show_icons=true&locale=en&layout=compact" alt="Sushank Ghimire" /></p>
 <br />
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mcoder006&show_icons=true&locale=en" alt="mcoder006" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Sushank-ghimire&show_icons=true&locale=en" alt="Sushank Ghimire" /></p>
 <br />
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mcoder006&" alt="mcoder006" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sushank-ghimire&" alt="mcoder006" /></p>
 
