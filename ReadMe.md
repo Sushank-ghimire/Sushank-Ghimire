@@ -15,7 +15,6 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-[![](https://visitcount.itsvg.in/api?id=Sushank-ghimire&icon=1&color=0)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=Sushank-ghimire&abbreviated=true)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
