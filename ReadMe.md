@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>A React Native app for seamless mobile experiences.<br><br>👯 I’m looking to collaborate on<br>Innovative web development and open-source projects.<br><br>🤝 I’m looking for help with<br>Mastering Python backend frameworks and scaling web apps.<br><br>🌱 I’m currently learning<br>AI application development with Python and advanced UI/UX design.<br><br>💬 Ask me about<br>React, responsive web design, or starting your full-stack journey.<br><br>⚡ Fun fact<br>I'm a coffee connoisseur 🍹, a bookworm 📚 who loves diving into captivating stories, and a passionate traveler always seeking new destinations and experiences 🌍✈️!
+🔭 I’m currently working on<br>A React Native app for seamless mobile experiences.<br><br>👯 I’m looking to collaborate on<br>Innovative web development and open-source projects.<br><br>🤝 I’m looking for help with<br>AI/ML and Data Science.<br><br>🌱 I’m currently learning<br>AI application development with Python and Data Science.<br><br>💬 Ask me about<br>React, responsive web design, or starting your full-stack journey.<br><br>⚡ Fun fact<br>I'm a coffee connoisseur 🍹, a bookworm 📚 who loves diving into captivating stories, and a passionate traveler always seeking new destinations and experiences 🌍✈️!
 
 
 ## 🌐 Socials:
