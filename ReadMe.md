@@ -50,7 +50,7 @@ Currently exploring <strong>AI-powered applications with Python & Data Science</
 
 * Git & GitHub
 * Requestly (API Testing)
-* VS Code
+* VS Code & Zed
 
 ---
 
