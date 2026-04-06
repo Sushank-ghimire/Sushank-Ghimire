@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:F59E0B,100:6C63FF&height=220&section=header&text=Sushank%20Ghimire&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20React%20%7C%20Cloud&descAlignY=55&descSize=18" width="100%" />
 
 <!-- Typing Animation -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6C63FF&width=435&lines=Building+scalable+web+mobile+apps;Crafting+clean+and+performant+UI/UX" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6C63FF&width=435&lines=Building+scalable+web+and+mobile+apps;Crafting+clean+and+performant+UI/UX" alt="Typing SVG" /></a>
   
 <!-- Profile Views & Followers Details -->
 <br/>
@@ -34,6 +34,7 @@ I'm **Sushank Ghimire**, a passionate **Full-Stack Developer** focused on buildi
 #### 🎨 Frontend
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -76,12 +77,14 @@ I'm **Sushank Ghimire**, a passionate **Full-Stack Developer** focused on buildi
 #### 🧰 Tools & Platforms
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Zed-000000?style=for-the-badge" alt="Zed Editor" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify" /> 
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
   <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" />
+  <img src="https://img.shields.io/badge/Requestly-000000?style=for-the-badge" alt="Requestly" />
 </p>
 
 ---
@@ -110,13 +113,10 @@ I'm **Sushank Ghimire**, a passionate **Full-Stack Developer** focused on buildi
   <a href="https://twitter.com/sushank_ghimire"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
   <a href="https://linkedin.com/in/sushank-ghimire"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:contact@ghimiresushank.com.np"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a> 
-</div>
-
----
-
+</div> 
 <div align="center">
-
-**Built and maintained with ❤️ by Sushank Ghimire**
+  
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:F59E0B,100:6C63FF&height=120&section=footer" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=4000&pause=2000&color=6C63FF&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+%F0%9F%91%8B+Star+a+repo+if+you+like+it!" alt="Footer typing" />
 </div>
