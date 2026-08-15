@@ -104,18 +104,18 @@ I'm **Sushank Ghimire**, a passionate **Full-Stack Developer** focused on buildi
 <br/>
 
 <div align="center">
-  <img src="https://streamerz-pro-github-readme-stats.vercel.app/api?username=Sushank-ghimire&show_icons=true&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=F59E0B&text_color=ffffff&include_all_commits=true&count_private=true" height="180" alt="GitHub Stats" />
-  <img src="https://streamerz-pro-github-readme-stats.vercel.app/api/top-langs/?username=Sushank-ghimire&layout=compact&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=ffffff&langs_count=8" height="180" alt="Top Languages" />
+  <img src="./profile/stats.svg" height="180" alt="GitHub Stats" />
+  <img src="./profile/top-langs.svg" height="180" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sushank-ghimire&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=F59E0B&currStreakLabel=6C63FF" alt="GitHub Streak" />
+  <img src="./profile/streak.svg" alt="GitHub Streak" />
 </div>
 
 <br/>
 
 <!-- <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sushank-ghimire&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" alt="GitHub Trophies" />
+  <img src="./profile/trophy.svg" alt="GitHub Trophies" />
 </div> -->
 
 ---
@@ -128,7 +128,9 @@ I'm **Sushank Ghimire**, a passionate **Full-Stack Developer** focused on buildi
   <a href="mailto:contact@ghimiresushank.com.np"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
 </div>
 
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,50:F953C6,100:FF6B6B&height=120&section=footer" width="100%" />
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,50:F953C6,100:FF6B6B&height=120&section=footer" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=4000&pause=2000&color=6C63FF&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+%F0%9F%91%8B+Star+a+repo+if+you+like+it!" alt="Footer typing" />
 
