@@ -2,7 +2,7 @@ name: Update README cards
 
 on:
   schedule:
-    - cron: "0 */12 * * *"   # Runs every 12 hours (00:00 and 12:00 UTC)
+    - cron: "0 */6 * * *"   # Runs every 6 hours
   push:
     paths:
       - ".github/workflows/update-readme-cards.yml"
@@ -43,7 +43,7 @@ jobs:
         with:
           username: Sushank-ghimire
           output_path: profile/trophy.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.PROFILE_TOKEN }}
         continue-on-error: true   # Trophy generation is less stable; don't fail the whole run if it hiccups
 
       - name: Commit updated cards
