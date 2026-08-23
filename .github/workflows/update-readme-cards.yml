@@ -15,6 +15,18 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      - name: Generate gh-ascii dark card
+        run: |
+          curl -fL \
+          "https://gh.crafter.run/Sushank-ghimire?theme=dark" \
+          -o profile/dark_mode.svg
+          
+      - name: Generate gh-ascii light card
+        run: |
+          curl -fL \
+          "https://gh.crafter.run/Sushank-ghimire?theme=light" \
+          -o profile/light_mode.svg
+
       - name: Generate stats card
         uses: stats-organization/github-readme-stats-action@v2
         with:
