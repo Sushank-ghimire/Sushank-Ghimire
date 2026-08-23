@@ -17,12 +17,10 @@
 
 ## 👨‍💻 About Me
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="./profile/dark_mode.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./profile/light_mode.svg" />
   <img alt="Sushank-ghimire's GitHub profile" src="dark_mode.svg" />
 </picture>
-
-<br clear="right"/>
 
 I'm **Sushank Ghimire**, a passionate **Full-Stack Developer** focused on building scalable, performant applications.
 
@@ -30,8 +28,6 @@ I'm **Sushank Ghimire**, a passionate **Full-Stack Developer** focused on buildi
 * 👯 Looking to collaborate on **open-source developer tools** and **productivity projects**
 * 💬 Ask me about **JavaScript/TypeScript**, **Node.js**, **React/Next.js**, **Docker**
 * ⚡ Focused on **clean architecture & user experience**
-
-<br clear="right"/>
 
 ---
 
