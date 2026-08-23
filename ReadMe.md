@@ -16,8 +16,13 @@
 <br/>
 
 ## 👨‍💻 About Me
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+  <img alt="Sushank-ghimire's GitHub profile" src="dark_mode.svg" />
+</picture>
 
-<img align="right" width="300" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"/>
+<br clear="right"/>
 
 I'm **Sushank Ghimire**, a passionate **Full-Stack Developer** focused on building scalable, performant applications.
 
